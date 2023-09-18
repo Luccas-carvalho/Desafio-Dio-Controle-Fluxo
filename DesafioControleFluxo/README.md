@@ -1,18 +1,21 @@
-## Getting Started
+# Projeto de Contador 🚀
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é um simples programa em Java que permite ao usuário inserir dois parâmetros e contar números a partir deles. Caso o segundo parâmetro seja menor que o primeiro, uma exceção personalizada é lançada e tratada.
 
-## Folder Structure
+## Descrição 📄
 
-The workspace contains two folders by default, where:
+Este programa Java interage com o usuário para fornecer dois parâmetros, "parametroUm" e "parametroDois". Em seguida, ele conta e imprime uma sequência de números a partir de "parametroUm" até "parametroDois". Se "parametroUm" for maior que "parametroDois", ele lança e captura uma exceção personalizada chamada `ParametrosInvalidosException` e exibe uma mensagem de erro.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Pré-requisitos ⚙️
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Antes de executar o programa, certifique-se de ter o Java instalado no seu sistema ☕.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Executando o Programa ▶️
 
-## Dependency Management
+1. Clone o repositório para o seu ambiente local.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+2. Abra o terminal e navegue até o diretório do projeto.
+
+3. Siga as instruções do programa para interagir com ele 📝.
+
+**Divirta-se com um contador de números! 💳💸🎉**
